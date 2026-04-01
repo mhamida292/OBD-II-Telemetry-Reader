@@ -12,7 +12,7 @@ This project reads vehicle diagnostic data from the OBD-II port and displays it 
 - **Design Software**: KiCAD 9
 - **Input**: OBD-II connector (standard 16-pin)
 - **Output Options**:
-  - LCD display (I2C interface)
+  - OLED display (I2C interface)
   - Bluetooth serial communication
 
 ## Features

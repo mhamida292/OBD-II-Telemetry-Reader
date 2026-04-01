@@ -8,7 +8,7 @@ This project reads vehicle diagnostic data from the OBD-II port and displays it 
 
 ## Hardware
 
-- **Microcontroller**: ESP32-D0WD-V3 Rev 301
+- **Microcontroller**: ESP32-S3 Rev 2
 - **Design Software**: KiCAD 9
 - **Input**: OBD-II connector (standard 16-pin)
 - **Output Options**:
